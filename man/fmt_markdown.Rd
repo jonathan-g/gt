@@ -52,11 +52,11 @@ argument. See the Arguments section for more information on this.
 text_1a <- "
 ### This is Markdown.
 
-Markdown’s syntax is comprised entirely of
+Markdown's syntax is comprised entirely of
 punctuation characters, which punctuation
 characters have been carefully chosen so as
 to look like what they mean... assuming
-you’ve ever used email.
+you've ever used email.
 "
 
 text_1b <- "
